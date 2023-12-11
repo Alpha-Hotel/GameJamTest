@@ -1,0 +1,7 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://175gxmka0oys"]
+
+[ext_resource type="FontFile" uid="uid://dx0qb0onjasy1" path="res://fonts/Xolonium-Regular.ttf" id="1_j07dd"]
+
+[resource]
+font = ExtResource("1_j07dd")
+font_size = 64
